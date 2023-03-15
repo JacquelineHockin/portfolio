@@ -2,9 +2,10 @@
 
 /* --- VARIABLES --- */
 :root {
-  --bg-color: #101010;
-  --hl-color: #009e66;
-  --text-color: #f3f3f3;
+  --bg-color: rgba(191, 151, 83, 0.13);
+  --hl-color: rgb(75, 111, 75);
+  /* --text-color: #f3f3f3; */
+  --text-color: saddleBrown;
   --secondary-text-color: #9f9f9f;
   --grey: #9f9f9f76;
   --spacing: 50px;
